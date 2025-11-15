@@ -20,7 +20,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mustafa200312&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/mustafa200312/mustafa200312/output/snake.svg" alt="Snake animation" />
-
-###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
