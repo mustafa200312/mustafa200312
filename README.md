@@ -15,7 +15,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mustafa200312&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa200312&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150"/>
-
 </div>
 
 ###
