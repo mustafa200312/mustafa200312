@@ -23,3 +23,7 @@
 <img src="https://raw.githubusercontent.com/mustafa200312/mustafa200312/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
