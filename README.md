@@ -12,8 +12,8 @@
 ###
 
 # 📊 GitHub Stats:
-<center>![](https://nirzak-streak-stats.vercel.app/?user=mustafa200312&theme=gotham&hide_border=false)</center>
-<center>![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa200312&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</center>
+![](https://nirzak-streak-stats.vercel.app/?user=mustafa200312&theme=gotham&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa200312&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
