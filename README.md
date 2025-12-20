@@ -12,7 +12,9 @@
 ###
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=mustafa200312&theme=gotham&hide_border=false)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mustafa200312&theme=gotham&hide_border=false" />
+</p>
 
 ###
 
