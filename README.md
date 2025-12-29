@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Graduation Project<br>👯 I’m looking to collaborate on ML, DL, GenAI Project<br>🌱 I’m currently learning Agentic AI
+🔭 I’m currently working on Graduation Project<br>👯 I’m looking to collaborate on ML, DL, GenAI Project<br>🌱 I’m currently learning Agentic AI, Deep Learning
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mustafa200312.mustafa200312&"  />
 </div>
