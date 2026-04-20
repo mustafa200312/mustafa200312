@@ -13,9 +13,8 @@
 ###
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mustafa200312&theme=gotham&hide_border=false" />
-</p>
+
+<img src="https://raw.githubusercontent.com/mustafa200312/mustafa200312/output/snake.svg" alt="Snake animation" />
 
 ###
 <p align="center">
