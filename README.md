@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=mustafa200312&theme=darkmode&data=followers,repositories,stars,commits" />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on Graduation Project<br>👯 I’m looking to collaborate on ML, DL, GenAI Projects<br>🌱 I’m currently learning Agentic AI, Deep Learning
 
