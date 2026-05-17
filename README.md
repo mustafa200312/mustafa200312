@@ -2,12 +2,12 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=mustafa200312&theme=darkmode&data=followers,repositories,stars,commits" />
 </div>
 
-# 💫 About Me:
-🔭 I’m currently working on Graduation Project<br>👯 I’m looking to collaborate on ML, DL, GenAI Projects<br>🌱 I’m currently learning Agentic AI, Deep Learning
-
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa200312&theme=radical&hide_border=true&stroke=0000&background=0d1117&ring=A020F0&fire=A020F0&currStreakLabel=A020F0" />
 </div>
+
+# 💫 About Me:
+🔭 I’m currently working on Graduation Project<br>👯 I’m looking to collaborate on ML, DL, GenAI Projects<br>🌱 I’m currently learning Agentic AI, Deep Learning
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mustafa200312.mustafa200312&"  />
