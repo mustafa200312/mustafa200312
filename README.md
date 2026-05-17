@@ -23,7 +23,19 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://raw.githubusercontent.com/mustafa200312/mustafa200312/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafa200312&theme=radical" />
+</div>
+
+<div align="center">
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustafa200312&theme=radical" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mustafa200312&theme=radical" />
+</div>
+
+<div align="center">
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustafa200312&theme=radical&utcOffset=2" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustafa200312&theme=radical" />
+</div>
 
 ###
 <p align="center">
